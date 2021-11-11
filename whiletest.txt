@@ -1,0 +1,5 @@
+let a =5
+let b =25
+let c(A,B) = do while(5>5)do a=5+5 done done
+12+54+55
+12+54+52432
